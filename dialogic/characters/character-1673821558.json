@@ -1,0 +1,21 @@
+{
+	"color": "#ff002eff",
+	"description": "I'm not bob dole",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1673821558.json",
+	"mirror_portraits": false,
+	"name": "Lisa Li",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

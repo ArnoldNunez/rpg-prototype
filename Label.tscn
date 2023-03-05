@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Sprite.gd" type="Script" id=1]
+[ext_resource path="res://icon.png" type="Texture" id=2]
+
+[node name="Hello World" type="Label"]
+margin_left = 491.0
+margin_top = 276.0
+margin_right = 531.0
+margin_bottom = 290.0
+text = "Hello World"
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 20, 71 )
+texture = ExtResource( 2 )
+script = ExtResource( 1 )
